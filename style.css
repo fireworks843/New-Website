@@ -23,7 +23,7 @@ h1{
 .navbar li{
   Float: left;
 }
-.mainclass{
+.maintext{
   max-width: fit-content;
   margin-inline: auto;
   text-align: center;
