@@ -15,9 +15,10 @@ h1{
   display: block;
   text-align: center;
 }
-. navbar a:hover[
+. navbar a:hover{
   background-color hsl(0, 0%, 10%)
 }
 .navbar li{
-  Class
+  Float: left;
+}
   
