@@ -1,1 +1,20 @@
+/* add static top and bottom bar */
+/* the bottom bar */
+.topbar {
+  position: fixed; 
+  bottom: 0; 
+  width: 100%; 
+}
 
+/* The top bar */
+.bottombar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; 
+  top: 0; 
+  width: 100%; 
+}
+
+/* add side bar functionality */
+
+/* add website style scheme */
