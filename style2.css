@@ -22,5 +22,15 @@
 }
 
 /* add side bar functionality */
-
+.sidebar {
+  overflow-y: scroll;
+  min-width: 150px;
+  position: fixed;
+  height: 100%;
+  background: #f0f0f0;
+  border-right: 1px #aaa solid;
+  padding-right: 20px;
+  height: calc(100% - 80px); /* mess with this till it covers both top and bottom bar */
+  
+}
 /* add website style scheme */
